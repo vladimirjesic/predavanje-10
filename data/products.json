@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Phone",
+        "price": 400,
+        "amount": 13
+    },
+    {
+        "name": "PC",
+        "price": 800,
+        "amount": 3
+    },
+    {
+        "name": "PS5",
+        "price": 600,
+        "amount": 0
+    },
+    {
+        "name": "TV",
+        "price": 350,
+        "amount": 7
+    },
+    {
+        "name": "Headphones",
+        "price": 100,
+        "amount": 30
+    },
+    {
+        "name": "Joystick",
+        "price": 80,
+        "amount": 5
+    }
+]
