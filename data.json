@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Zika Zikic",
+        "age": 25,
+        "height": 175,
+        "gender": "male"
+    },
+    {
+        "name": "Pera Peric",
+        "age": 30,
+        "height": 190,
+        "gender": "male"
+    },
+    {
+        "name": "Maja Stankovic",
+        "age": 40,
+        "height": 167,
+        "gender": "female"
+    },
+    {
+        "name": "Petar Petrovic",
+        "age": 35,
+        "height": 190,
+        "gender": "male"
+    },
+    {
+        "name": "Petar Petrovic",
+        "age": 35,
+        "height": 190,
+        "gender": "male"
+    }
+]
